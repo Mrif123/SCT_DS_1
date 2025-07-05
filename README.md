@@ -35,5 +35,6 @@ pip install pandas matplotlib seaborn numpy
 3. Save or modify plots as needed.
 
 ## 📈 Example Outputs
-
+<img width="989" height="590" alt="Image" src="https://github.com/user-attachments/assets/1c419057-fd61-4dce-9186-fd79a44d23ec" />
+<img width="989" height="590" alt="Image" src="https://github.com/user-attachments/assets/3e938b69-a3f2-487f-a901-b55b28d46651" />
 
