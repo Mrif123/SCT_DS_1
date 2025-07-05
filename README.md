@@ -36,6 +36,4 @@ pip install pandas matplotlib seaborn numpy
 
 ## 📈 Example Outputs
 
-- ![Bar Chart]([image](https://github.com/user-attachments/assets/0842b889-d3f7-465c-abbc-b9372bfded51))
-- ![Histogram]([image](https://github.com/user-attachments/assets/10100088-4c2b-49f9-8fbe-d3357b8aed97))
 
